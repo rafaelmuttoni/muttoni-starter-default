@@ -32,6 +32,15 @@ Kick off your project with this default boilerplate. This starter ships with the
 
 1.  **Start developing!**
 
+    Unlink current git repo and link to your new one.
+
+    ```shell
+    git remote rm origin
+    git remote add origin link-to-your-new-repo
+    ```
+    
+1.  **Start developing!**
+
     Open your folder in your code editor and start the server.
 
     ```shell
