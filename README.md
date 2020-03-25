@@ -30,7 +30,7 @@ Kick off your project with this default boilerplate. This starter ships with the
     yarn install
     ```
 
-1.  **Start developing!**
+1.  **Git setup.**
 
     Unlink current git repo and link to your new one.
 
