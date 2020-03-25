@@ -8,7 +8,7 @@
   Muttoni's default starter
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files (with some clean up) you might need to get up and running blazing fast with the blazing fast app generator for React.
+Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files (with some clean up) you might need to get up and running blazing fast.
 
 ## 🚀 Quick start
 
