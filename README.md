@@ -8,9 +8,7 @@
   Gatsby's default starter
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
-
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
+Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files (with some clean up) you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 ## 🚀 Quick start
 
@@ -23,7 +21,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     git clone git@github.com:rafaelmuttoni/muttoni-starter-default.git name-of-your-website
     ```
 
-1.  **Start developing.**
+1.  **Install your dependencies.**
 
     Navigate into your new site’s directory and run "yarn install" to install the dependencies.
 
@@ -32,7 +30,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     yarn install
     ```
 
-1.  **You're ready to go!**
+1.  **Start developing!**
 
     Open your folder in your code editor and start the server.
 
