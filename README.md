@@ -23,11 +23,11 @@ Kick off your project with this default boilerplate. This starter ships with the
 
 1.  **Install your dependencies.**
 
-    Navigate into your new site’s directory and run "yarn install" to install the dependencies.
+    Navigate into your new site’s directory and run "yarn" to install the dependencies.
 
     ```shell
     cd name-of-your-website/
-    yarn install
+    yarn
     ```
 
 1.  **Git setup.**
@@ -105,5 +105,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
 
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
-
-<!-- AUTO-GENERATED-CONTENT:END -->
