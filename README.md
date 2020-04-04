@@ -8,7 +8,7 @@
   Muttoni's default starter
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files (with some clean up) and style-components for styling.
+Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files (with some clean up) and styled-components 🎨 for styling.
 
 ## 🚀 Quick start
 
