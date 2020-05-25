@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://www.agenciachima.com">
-    <img alt="Gatsby" src="./src/images/chima-icon.png" width="60" />
-  </a>
-</p>
 <h1 align="center">
   Agencia Chima's Starter
 </h1>
